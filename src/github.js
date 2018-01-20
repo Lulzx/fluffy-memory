@@ -1,5 +1,5 @@
 import GithubAPI from 'github';
-const github = new GithubAPI({version: '3.0.0'});
+const github = new GithubAPI({version: '13.1.1'});
 export function search(scope, data) {
     return new Promise((resolve, reject) => {
         github.search[scope](data, (err, response) => {

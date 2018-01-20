@@ -16,7 +16,7 @@ var _github2 = _interopRequireDefault(_github);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-const github = new _github2.default({ version: '3.0.0' });
+const github = new _github2.default({ version: '13.1.1' });
 function search(scope, data) {
     return new Promise((resolve, reject) => {
         github.search[scope](data, (err, response) => {

@@ -71,8 +71,8 @@ commands[item]
                 title: 'Not found',
                 description: 'Command not found!',
                 message_text: 'Command not found!',
-                switch_pm_text = 'Help',
-                switch_pm_parameter = 'inline-help'}
+                switch_pm_text: 'Help',
+                switch_pm_parameter: 'inline-help'}
     ]);
   }
     const matches = commands[command]

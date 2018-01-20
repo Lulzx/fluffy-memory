@@ -1,6 +1,6 @@
 const token = 'BOT_TOKEN';
 const github = {
-    version: '3.0.0',
+    version: '13.1.1',
     debug: true,
     protocol: 'https',
     host: 'api.github.com',

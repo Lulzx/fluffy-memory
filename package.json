@@ -31,9 +31,9 @@
     "gulp-sourcemaps": "^2.6.3"
   },
   "dependencies": {
+    "@octokit/rest": "^15.2.5",
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
-    "github": "^13.1.1",
     "node-telegram-bot-api": "^0.30.0"
   }
 }

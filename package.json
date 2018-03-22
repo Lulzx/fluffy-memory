@@ -26,9 +26,9 @@
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1",
     "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.0",
+    "gulp-babel": "^7.0.1",
     "gulp-newer": "^1.4.0",
-    "gulp-sourcemaps": "^2.6.3"
+    "gulp-sourcemaps": "^2.6.4"
   },
   "dependencies": {
     "@octokit/rest": "^15.2.5",
